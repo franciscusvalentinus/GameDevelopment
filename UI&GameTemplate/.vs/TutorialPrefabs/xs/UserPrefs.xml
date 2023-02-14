@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F88FAAD4-A09D-1941-83C2-7E9B04CD16B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rotator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TutorialPrefabs.cs" Line="22" Column="39" />
+      <File FileName="Assets/Scripts/TutorialColliders.cs" Line="25" Column="61" />
+      <File FileName="Assets/Scripts/ColliderRectangle.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/TriggerRectangle.cs" Line="18" Column="44" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="16" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TutorialPrefabs" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Rotator.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d08a296-6377-4fce-b64c-bf37ccb4c981" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

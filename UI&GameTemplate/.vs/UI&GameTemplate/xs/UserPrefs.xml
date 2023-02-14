@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A58FE442-4037-6BDA-28C5-B808D09A4BB9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Unused/TutorialPrefabs.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AppManager.cs" Line="23" Column="57" />
+      <File FileName="Assets/Scripts/TutorialPrefabs.cs" Line="8" Column="30" />
+      <File FileName="Assets/Scripts/Game.cs" Line="34" Column="1" />
+      <File FileName="Assets/Scripts/Rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Mover.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Alien.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UI&amp;GameTemplate" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Unused" expanded="True">
+                  <Node name="TutorialPrefabs.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d08a296-6377-4fce-b64c-bf37ccb4c981" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/januartanzil/Documents/IMT-GameDesign/UI&amp;GameTemplate/Temp/UnityTempFile-cfc40c992062d44a3ae41e8e3b518c28" relfile="Temp/UnityTempFile-cfc40c992062d44a3ae41e8e3b518c28" line="49" column="1" />
+      <Breakpoint file="/Users/januartanzil/Documents/IMT-GameDesign/UI&amp;GameTemplate/Assets/Scripts/Alien.cs" relfile="Assets/Scripts/Alien.cs" line="16" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
